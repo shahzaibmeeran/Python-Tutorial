@@ -1,14 +1,23 @@
 # Python-Tutorial
 Topics to be Covered:
 o Introduction to Python
+
 o Data Types (Variables, Numbers, Strings, Lists, Tuples, Dictionaries, Sets)
+
 o Operators (Comparison, Logical)
+
 o Control Flow:
+
 o If-Else Statements
+
 o Loops (for, while)
+
 o Functional Programming:
+
 o Defining Functions
+
 o Lambda Functions, map(), filter()
+
 o File I/O:
 o Reading from and writing to text files
 o File position operations (seek, tell)
